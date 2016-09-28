@@ -7,19 +7,19 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: rodrygojose
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Rodrigo J. Ortiz Cayón
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
+  name: Rodrigo J. Ortiz Cayón
+  email: rodrygojose@gmail.com
   github: dbtek
   twitter: dbtek
   pinterest: asd123
